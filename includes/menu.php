@@ -17,7 +17,7 @@
 <!--</ul>-->
 <!--</div>-->
 
-<nav class="navbar navbar-default navbar-fixed-top" id="navmenu" role="navigation">
+<nav class="navbar navbar-default navbar-static-top" id="navmenu" role="navigation">
     <div class="container-fluid navbar-right">
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

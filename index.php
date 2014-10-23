@@ -17,10 +17,8 @@
 <body>
 
         <center>
-        	<div id="topo"><!-- INCLUI O TOPO !-->
-            	<?php include("includes/topo.php");?>
-            </div>
-            <div id="conteudo_central">    
+
+            <div id="conteudo_central">
                 <?php
 					include_once("class/verurl.php");//FAZ A INCUSÃO DA CLASS VER URL
 					include("includes/menu.php");//FAZ A INCLUSÃO DO MENU
