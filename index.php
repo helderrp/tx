@@ -6,9 +6,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/estilosite.css" type="text/css" />
-<link href="bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet" media="screen">
+<link href="vendor/bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet" media="screen">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
+<script src="vendor/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 
 
 <title>Teixeira Gás</title>
