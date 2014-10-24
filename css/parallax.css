@@ -18,15 +18,12 @@ html, body {height:100%;}
 }
 
 /* Define backgrounds dos divs */
-#quemsomos {background-image: url(bg2.jpg);}
-#missao {
-    background-image: url(bg1.jpg);
-    -webkit-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
-    -moz-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
-    -ms-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
-    -o-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
-    box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
-}
+#home {background: #019058;}
+#produtos {background: #FFCC3F;}
+#promocoes {background: #FFCC3F;}
+#historia {background: #FFCC3F;}
+#frota {background: #FFCC3F;}
+#rodape{background: #00939A;}
 
 /** Formata o article que vai o texto **/
 .bgParallax article {

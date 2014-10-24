@@ -1,11 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{ text-align:center; list-style:none; width:1280px; margin:0 auto}
+/*body{ text-align:center; list-style:none; width:1280px; margin:0 auto}*/
 
-nav#navmenu{background:#008542 ; border-bottom: 5px solid #fdc72f}
+nav#navmenu{background:#008542 ; border-bottom: 5px solid #fdc72f;}
 nav#navmenu li a{color: #ffffff !important;}
-nav#navmenu li:hover{background: #ffffff;}
+nav#navmenu li:hover{background: #FFCC3F;}
 nav#navmenu li a:hover{color: #008542!important;}
 
 nav#navrodape{background:#008542;}
+

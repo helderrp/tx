@@ -27,12 +27,11 @@
     <div class="container-fluid navbar-right">
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="#quemsomos">HOME</a></li>
-                <li><a href="#missao">PRODUTOS</a></li>
-                <li><a href="?secao=promocoes">PROMOÇÕES</a></li>
-                <li><a href="?secao=historia">HISTORIA</a></li>
-                <li><a href="?secao=frota">FROTA</a></li>
-                <li><a href="?secao=contato">CONTATO</a></li>
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#produtos">PRODUTOS</a></li>
+                <li><a href="#promocoes">PROMOÇÕES</a></li>
+                <li><a href="#historia">HISTORIA</a></li>
+                <li><a href="#frota">FROTA</a></li>
             </ul>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
