@@ -17,18 +17,26 @@
 <!--</ul>-->
 <!--</div>-->
 
-<nav class="navbar navbar-default navbar-static-top" id="navmenu" role="navigation">
+<nav class="navbar navbar-default navbar-fixed-top" id="navmenu" role="navigation">
+
+    <div class="container-fluid navbar-left">
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            Logo Teixeira Gás
+        </div>
+    </div>
     <div class="container-fluid navbar-right">
-        <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="?secao=home">HOME</a></li>
-                <li><a href="?secao=produtos">PRODUTOS</a></li>
+                <li><a href="#quemsomos">HOME</a></li>
+                <li><a href="#missao">PRODUTOS</a></li>
                 <li><a href="?secao=promocoes">PROMOÇÕES</a></li>
                 <li><a href="?secao=historia">HISTORIA</a></li>
                 <li><a href="?secao=frota">FROTA</a></li>
                 <li><a href="?secao=contato">CONTATO</a></li>
             </ul>
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
 </nav>
